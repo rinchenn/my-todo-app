@@ -1,0 +1,5 @@
+Do the laundry.
+Return the books to the library.
+Buy the grocery.
+Clean the bag.
+Debug the code.
